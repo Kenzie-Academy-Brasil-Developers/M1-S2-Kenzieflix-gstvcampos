@@ -54,13 +54,13 @@
 }
 .perfil {
     background-color: white;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 button {
-    font-size: 22px;
-    margin: 4px;
-    padding: 20px 80px 20px 80px;
-    border-radius: 15px;
+    font-size: 20px;
+    margin: 2px;
+    padding: 20px 70px 20px 70px;
+    border-radius: 10px;
 }
 button:hover {
     background-color: white;
